@@ -11,12 +11,12 @@
 #include <string>
 
 // WiFi credentials
-const char *ssid = "StayTab";
-const char *password = "        ";
+const char *ssid = "(Your_wifi_name)";
+const char *password = "(Your_wifi_password)";
 
 // MQTT settings
-const char *mqtt_server = "143.198.195.172";
-const char *mqtt_token = "iw53jnne5x9zxffc9t3b";
+const char *mqtt_server = "(Your_mqtt_server)";
+const char *mqtt_token = "(Your_access_token)";
 
 // Value
 static const int firmware_chunk_size = 220;

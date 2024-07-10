@@ -68,6 +68,8 @@ If you want to update firmware version to Thingsboard, you need to do this step:
 4. Go to Thingsboard.
 5. Click Advanced features -> OTA updates.
 6. Add new package. You can edit your title but Version must be as same as is step2.
+   
    > The binary file (.bin) is "ESP32_OTA\.pio\build\esp32dev\firmware.bin"
 
-
+7. Go to device or profile in Thingsboard.
+8. Assign which firmware version you want to assign.
